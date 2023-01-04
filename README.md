@@ -1,6 +1,7 @@
 # Digital Namecard
 
-Tutorial from Scrimba.
+Figma from Scrimba.
+Done in React.
 
 ## Netlify
 
